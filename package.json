@@ -2,19 +2,24 @@
   "name": "top-testing-practice",
   "version": "1.0.0",
   "description": "Project: Project Testing for The Odin Project",
-  "homepage": "https://github.com/yaoming16/TOP-Testing-Practice#readme",
-  "bugs": {
-    "url": "https://github.com/yaoming16/TOP-Testing-Practice/issues"
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yaoming16/TOP-Testing-Practice.git"
   },
-  "license": "ISC",
   "author": "",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaoming16/TOP-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/yaoming16/TOP-Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
   }
 }
