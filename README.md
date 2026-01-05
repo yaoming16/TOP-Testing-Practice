@@ -36,3 +36,8 @@ npx jest --clearCache
 
 - Preserves letter case
 - Leaves non-alphabetical characters unchanged (punctuation, spaces)
+
+## Also Check out
+
+The Odin Project Computer Science and Data Structures: https://github.com/yaoming16/TOP-Computer-Science-and-Data-Structures
+All prjects I did for The Odin Project: https://yaoming16.github.io/TOP-Homepage/ 
